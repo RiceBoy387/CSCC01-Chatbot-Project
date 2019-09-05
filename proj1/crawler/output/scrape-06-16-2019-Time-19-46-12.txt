@@ -1,0 +1,30 @@
+Engineering
+
+The aUToronto team has done it again. 
+The University of Toronto's only student-led self-driving car team, composed of engineering and computer science students, edged out seven other universities during the second instalment of the AutoDrive Challenge in Michigan last week.
+The three-year international competition challenges universities across North America to turn an Chevy Bolt EV into a self-driving car by 2020. The second year of the competition took place in Ann Arbor and pitted U of T against Kettering University, Michigan State University, Michigan Tech University, North Carolina A & T State University, Texas A & M University, University of Waterloo and Virginia Tech.
+"I am extremely proud of our team,” said faculty advisor Tim Barfoot, a professor at U of T's Institute for Aerospace Studies (UTIAS). “It was fantastic to see all their hard work pay off. The car performed pretty much exactly as planned.  The team really came together and did a brilliant job of supporting each other."
+
+aUToronto is composed of U of T engineering and computer science undergraduate and graduate students (photo courtesy of aUToronto)
+This year’s competition “focused on urban environment driving scenarios in static and dynamic objects.” The teams had to complete four driving challenges that demonstrated the vehicles’ autonomous capabilities by obeying traffic signs, traffic lights at intersections, as well as navigating pedestrian crosswalks.
+The final challenge took place at MCity, a simulated town built at the University of Michigan for self-driving vehicle testing.
+“We performed perfectly on the traffic sign challenge, with a flawless parking job at the end,” says technical team lead Keenan Burnett, a U of T engineering science graduate who's now pursuing a master's at UTIAS. “During the MCity challenge, we made it the farthest out of all the teams.”
+Burnett says the key to their win was their many enhancements to U of T's self-driving car, Zeus, over the past year. These included the use of lidar (light detection and ranging) localization to precisely determine the car’s position, and employing deep neural networks to correctly detect pedestrians and traffic lights. To do this, they collected a data set of more than 70,000 images. 
+The team placed first in all but one of the nine judging categories. They received top marks in social responsibility, the mapping challenge, pedestrian challenge, MCity challenge and more. They were runners-up in concept design. 
+“We are very proud of the work we've done so far and have our eyes on the future,” says Burnett. In preparation for the final competition next year, the team will begin improving Zeus’ object-detection capabilities and focus on developing a fully reliable and safe operating system. 
+“I think we have a good shot at year three,” adds Burnett. “We hope to test Zeus on public roads sometime in the next year.”
+
+This year’s competition “focused on urban environment driving scenarios in static and dynamic objects.” The teams had to complete four driving challenges that demonstrated the vehicles’ autonomous capabilities by obeying traffic signs, traffic lights at intersections, as well as navigating pedestrian crosswalks.
+The final challenge took place at MCity, a simulated town built at the University of Michigan for self-driving vehicle testing.
+“We performed perfectly on the traffic sign challenge, with a flawless parking job at the end,” says technical team lead Keenan Burnett, a U of T engineering science graduate who's now pursuing a master's at UTIAS. “During the MCity challenge, we made it the farthest out of all the teams.”
+Burnett says the key to their win was their many enhancements to U of T's self-driving car, Zeus, over the past year. These included the use of lidar (light detection and ranging) localization to precisely determine the car’s position, and employing deep neural networks to correctly detect pedestrians and traffic lights. To do this, they collected a data set of more than 70,000 images. 
+The team placed first in all but one of the nine judging categories. They received top marks in social responsibility, the mapping challenge, pedestrian challenge, MCity challenge and more. They were runners-up in concept design. 
+“We are very proud of the work we've done so far and have our eyes on the future,” says Burnett. In preparation for the final competition next year, the team will begin improving Zeus’ object-detection capabilities and focus on developing a fully reliable and safe operating system. 
+“I think we have a good shot at year three,” adds Burnett. “We hope to test Zeus on public roads sometime in the next year.”
+Share this page
+
+
+Get faculty and staff news delivered straight to your inbox.
+
+
+UNIVERSITY OF TORONTO - SINCE 1827

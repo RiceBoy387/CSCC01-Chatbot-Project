@@ -1,0 +1,34 @@
+<ng-container *ngIf="!display">
+  <div class="button">
+    <button class="chat-btn" (click)="toggleChat()"><img class="button-prop" src="../../assets/robot.png" alt=""></button>
+  </div>
+</ng-container>
+
+
+<ng-container *ngIf="display">
+  <div class="chat-popup">
+    <form class="form-container">
+      <p class="chatHead"> ChatRoom <img src="../../assets/speech.png" class="chatPic" alt=""></p>
+
+      <div class="chatArea">
+        <ul class="chatList" id="myList">
+          <li class="message" >BOT <br> What can I help you with?</li>
+          <li #messageListDisplay class="message" *ngFor="let item of messages" [ngClass]="{'userItem': item.isUser}">{{ item.header }} <br> {{ item.content }}</li>
+        </ul>
+      </div>
+
+      <div *ngIf="optionsIndex>0" >
+        <button class="helpfulButton" (click)="thatsEnough()">Helpful!</button>
+        <button class="uselessButton" (click)="showMore()">Not Helpful!!</button>
+      </div>
+
+      <div >
+        <label for="message"></label><textarea #message (keyup.enter)="sendMessage(message.value)" id="message" placeholder="Type in your query..." required></textarea>
+      </div>
+
+      <button id="question" class="btn" type="button" (click)="sendMessage(message.value)">Submit</button>
+      <button class="btn cancel" (click)="toggleChat()">Close</button>
+
+    </form>
+  </div>
+</ng-container>

@@ -1,0 +1,28 @@
+UTC
+
+Four more University of Toronto researchers have been awarded research chairs in artificial intelligence by the Canadian Institute for Advanced Research (CIFAR), a pillar of Canada’s AI strategy.
+The new U of T chairs – Alán Aspuru-Guzik, David Fleet, Daniel Roy and Bo Wang – join another eight at U of T who were named among the inaugural group last fall and are all associated with the Vector Institute for Artificial Intelligence. 
+The four new chairs are expected to play an important part in developing new technologies, from new, state-of-the-art materials to predictive software that promises to improve patient care.
+“Today’s announcement will help U of T increase the number of outstanding artificial intelligence researchers and skilled graduates it produces,” said Vivek Goel, U of T’s vice-president of research and innovation.
+“It will also help heighten U of T’s, and Canada’s, international profile in AI research and training.”
+CIFAR is at the heart of the $125-million pan-Canadian AI strategy, which is intended to attract and retain the best minds in the rapidly growing and competitive field. CIFAR supports AI researchers across the country based at three institutes: Toronto's Vector Institute, Edmonton's Alberta Machine Intelligence Institute (Amii) and the Quebec Artificial Intelligence Institute (Mila).
+Aspuru-Guzik, who came to U of T from Harvard University, works at the intersection of theoretical chemistry and computational physics. In his Matter Lab, he and his colleagues use AI to simulate and classify molecules for application in new materials including cleantech and optoelectronics. 
+Traditionally, developing new materials required endless experimentation and calculation. “It's like searching for a needle in a haystack, where the needle is the function of the molecule that you need,” Aspuru-Guzik said. He added that, in the past, experimenters used a scattershot approach but, with AI, they can become sharpshooters.
+“Typically to make a material, it takes $10 million and 10 years of effort,” Aspuru-Guzik said. “So what I'm aiming to do in my research is to bring it down to at least to $1 million and one year per material, and even $100,000 and one month.”
+Canada's support for AI research is crucial to maintain its early advantage in a field where other countries are looking to be leaders, he added. 
+“The AI race is on. This is a race where everybody is putting [forward] their best wheels and race cars. They are pushing their pedals to the limit.”
+As for Wang, he worked as a senior AI consultant for the U.S. biotech company Genentech after obtaining a master's degree at U of T. He later returned to Toronto to join U of T’s Faculty of Medicine as an assistant professor.
+Wang’s also the lead artificial intelligence scientist at the Techna Institute and Peter Munk Cardiac Centre at the University Health Network. He applies his research in machine learning, computational biology, and computer vision to refining patient care.
+Fleet, a professor in the department computer and mathematical sciences at U of T Scarborough, said Canada is reaping the rewards of investments in AI going back to the 1980s. That includes supporting pioneers like Geoffrey Hinton, who recently won an A.M. Turing Award, Hector Levesque and Ray Reiter, who made influential contributions to AI, knowledge representation and databases, and theorem-proving.
+“There was the core group that they built the program around in Toronto that was world renowned,” said Fleet, who completed his PhD in computer science at U of T in 1990 and whose research spans computer vision, machine learning, image processing and visual neuroscience.
+U of T Scarborough is also home to Roy, an assistant professor who combines expertise in computer science, statistics and probability theory. His interest in computers started as a child after his parents brought home a Tandy personal computer. He learned how computer games worked and built his own.
+Fast forward to today and Roy is working on the theoretical frontier of machine learning by helping researchers build more reliable and efficient systems.
+Research in AI is advancing so quickly that it’s impossible to predict where it will lead, Roy said. “It’s difficult for me to anticipate what surprising things will show up at the main conferences next year – let alone five years from now.
+“It repeatedly blows my mind.”
+Share this page
+
+
+Get faculty and staff news delivered straight to your inbox.
+
+
+UNIVERSITY OF TORONTO - SINCE 1827

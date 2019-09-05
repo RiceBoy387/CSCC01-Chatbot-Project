@@ -1,0 +1,162 @@
+.button-prop{
+  width: 200px;
+  height: 180px;
+}
+
+
+.chat-btn{
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  bottom: 30%;
+  left: 50%;
+  margin-left: -100px;
+  width: 200px;
+  &:hover{
+    opacity: 0.8;
+  }
+}
+
+/* Add styles to the form container */
+.form-container {
+  width: 650px;
+  height: 85%;
+  padding: 10px;
+  background-color: black;
+  opacity: 0.6;
+  border-radius: 25px;
+  position: absolute;
+  left: 50%;
+  margin-left: -335px;
+  top: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.chatHead{
+  color: white;
+  font-size: 16pt;
+  padding-left: 25px;
+  font-weight: bold;
+}
+
+.chatPic{
+  width: 30px;
+  height: 30px;
+  background-color: transparent;
+  -webkit-filter: invert();
+
+}
+
+.chatArea{
+  position: center;
+  width: 100%;
+  height: 67%;
+
+}
+
+li.message {
+  background: url('../../assets/bot.png') no-repeat top left;
+  margin: 0;
+  padding-left: 40px;
+  list-style: none;
+}
+
+li.message.userItem{
+  background: url('../../assets/user.png') no-repeat top right;
+  margin: 0;
+  padding-right: 40px;
+  list-style: none;
+}
+.chatList {
+  height: 100%;
+  overflow-y: auto;
+  color: white;
+  font-size: 14pt;
+  padding-inline-start: 3px;
+  .message {
+    white-space: pre-line;
+    padding-top: 5px;
+  }
+}
+.userItem{
+  text-align: right;
+  padding: 10px 35px 5px 0;
+ }
+.botItem{
+  padding: 10px 0 5px 5px;
+}
+
+/* Full-width textarea */
+.form-container textarea {
+  width: 95%;
+  padding: 15px;
+  margin: 5px 0 10px 0;
+  border: none;
+  border-radius: 25px;
+  background: gainsboro;
+  resize: none;
+  font-size: 14pt;
+  min-height: 40px;
+  &:focus{
+    background-color: #ddd;
+    outline: none;
+  }
+}
+
+/* Set a style for the submit/send button */
+.form-container .btn {
+  background-color: deepskyblue;
+  color: black;
+  font-size: 12pt;
+  padding: 12px;
+  cursor: pointer;
+  width: 45%;
+  float: right;
+  -webkit-filter: saturate(700%);
+  border-radius: 25px;
+  border: none;
+  font-weight: bold;
+}
+
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+  background-color: red;
+  float: left;
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover, .uselessButton:hover, .helpfulButton:hover {
+  opacity: 0.9;
+}
+.space{
+  min-height: 12px;
+}
+.form-container .helpfulButton{
+  float: right;
+  background-color: deepskyblue;
+  color: black;
+  font-size: 12pt;
+  cursor: pointer;
+  border: none;
+  border-radius: 20px;
+  -webkit-filter: saturate(700%);
+  font-weight: bold;
+  padding: 4px;
+  margin-left: 8px;
+}
+
+.form-container .uselessButton{
+  background-color: red;
+  float: right;
+  color: black;
+  font-size: 12pt;
+  cursor: pointer;
+  border: none;
+  border-radius: 20px;
+  -webkit-filter: saturate(700%);
+  font-weight: bold;
+  padding: 4px;
+}
+

@@ -1,0 +1,18 @@
+<div class="topbar">
+  <div class="navigation">
+    <div class="places">
+      <button class="sidebar-btn" (click)="toggleSideMenu()"><img class="button-prop" src="../../assets/menu.png" alt=""></button>
+      <a class="nav-btn" routerLink="/home" routerLinkActive="active">TEXPERT ChatBot</a>
+      <a class="nav-btn" routerLink="/login" routerLinkActive="active" *ngIf="!username">Login</a>
+      <a class="nav-btn" routerLink="/admin" routerLinkActive="active" *ngIf="isAdmin">Admin</a>
+    </div>
+  </div>
+</div>
+
+<div class="side-nav" [ngStyle]="{'width': hide ? '0px' : (show ? '250px' : null) }">
+  <a class="btn-close" (click)="toggleSideMenu()">&times;</a>
+  <img class="sidebar-pic" src="../../assets/robot.png" alt="">
+  <a class="side-nav-btn" (click)="toggleSideMenu()" routerLink="/home" routerLinkActive="active">Home</a>
+  <a class="side-nav-btn" (click)="toggleSideMenu()" routerLink="/about" routerLinkActive="active">About</a>
+  <a class="side-nav-btn" (click)="toggleSideMenu()" routerLink="/credits" routerLinkActive="active">Credits</a>
+</div>

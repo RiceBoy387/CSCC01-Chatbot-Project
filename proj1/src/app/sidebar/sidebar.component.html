@@ -1,0 +1,14 @@
+
+<div>
+  <button class="sidebar-btn" (click)="toggleSideMenu()"><img class="button-prop" src="../../assets/menu.png" alt=""></button>
+</div>
+
+
+<div class="side-nav" [ngStyle]="{'width': hide ? '0px' : (show ? '250px' : null) }">
+  <a class="btn-close" (click)="toggleSideMenu()">&times;</a>
+  <img class="sidebar-pic" src="../../assets/robot.png" alt="">
+  <a class="side-nav-btn" (click)="toggleSideMenu()" routerLink="/home" routerLinkActive="active">Home</a>
+  <a class="side-nav-btn">About</a>
+  <a class="side-nav-btn" (click)="toggleSideMenu()" routerLink="/credits" routerLinkActive="active">Credits</a>
+  <a class="side-nav-btn">Settings</a>
+</div>

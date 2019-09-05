@@ -1,0 +1,133 @@
+.topbar {
+  font-family: Verdana, Geneva, sans-serif;
+  background-color: #1E1E24;
+  opacity: 0.7;
+  padding: 0 4%;
+  overflow: hidden;
+  margin: 0px -8px 0 -8px;
+  display: grid;
+  height: 50px;
+  width: 100%;
+  right: 10px;
+
+  .navigation {
+    display: flex;
+    margin-left: 25px;
+    .places {
+      display: flex;
+      .nav-btn {
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        font-size: 20px;
+        padding: 12px 14px;
+        &:hover {
+          color: cornflowerblue;
+          background-color: #3C3D3F;
+        }
+      }
+    }
+  }
+
+  .user-info {
+    display: flex;
+    margin-left: auto;
+
+    .user-avatar {
+      //https://stackoverflow.com/questions/26681059/create-a-circle-avatar-from-a-rectangle-image-keeping-proportions-and-just-using
+      width: 35px;
+      height: 35px;
+      background-size: cover;
+      background-position: top center;
+      border-radius: 50%;
+      margin-top: auto;
+      margin-bottom: auto;
+      border: 1px solid white;
+      cursor: pointer;
+    }
+
+    .user-options {
+      display: grid;
+      .user-btn {
+        text-align: left;
+        text-decoration: none;
+        font-size: 16px;
+        color: black;
+        padding: 5px 63px 5px 17px;
+        margin-left: -13px;
+        margin-right: -13px;
+        cursor: pointer;
+        &:hover {
+          background-color: #aaaaaa;
+        }
+      }
+    }
+  }
+}
+
+.sidebar-btn{
+  background-color: transparent;
+  position: absolute;
+  z-index: 1;
+  top: 13px;
+  left: 10px;
+  border: none;
+  cursor: pointer;
+  .button-prop{
+    height: 30px;
+    width: 30px;
+    -webkit-filter: brightness(200%);
+    &:hover{
+      filter: sepia(100%) saturate(500%) hue-rotate(190deg);
+    }
+  }
+}
+.sidebar-pic{
+  padding-bottom: 20px;
+  padding-left: 10px;
+  height: 90px;
+  width: 100px;
+}
+
+.side-nav{
+  font-family: Verdana, Geneva, sans-serif;
+  height:100%;
+  position:fixed;
+  z-index: 1;
+  top:0;
+  left:0;
+  background-color:#111;
+  opacity:0.9;
+  overflow-x:hidden;
+  padding-top:60px;
+  transition:0.5s;
+  .side-nav-btn{
+    padding:10px 10px 10px 35px;
+    text-decoration:none;
+    font-size:20px;
+    color:#ccc;
+    display:block;
+    transition:0.3s;
+    cursor: pointer;
+    &:hover{
+      color:cornflowerblue;
+      background-color: #3C3D3F;
+    }
+  }
+  .btn-close{
+    position:absolute;
+    top:0;
+    right:22px;
+    color: whitesmoke;
+    font-size:36px;
+    margin-left:50px;
+    cursor: pointer;
+    &:hover{
+      color: cornflowerblue;
+    }
+  }
+
+}
+
+
+
