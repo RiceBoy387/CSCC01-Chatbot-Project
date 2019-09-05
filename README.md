@@ -1,2 +1,2 @@
-# Programs-In-C
-Repository which will have all my past programs and assignments written in C
+# CSCC01 Chatbot Project
+This repository contains the files and work created by my group for our project
